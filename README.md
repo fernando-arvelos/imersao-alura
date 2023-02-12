@@ -1,2 +1,2 @@
 # imersao-alura
-Projetos feitos em uma Imersão da escola Alura
+Projeto feito em uma Imersão dev da escola Alura
